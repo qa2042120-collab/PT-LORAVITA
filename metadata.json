@@ -1,0 +1,7 @@
+{
+  "name": "PT Loravita Indonesia - Farmasi Herbal Modern",
+  "description": "Website resmi PT Loravita Indonesia: Industri farmasi herbal terstandardisasi dan nutrasetikal berbasis Quality by Design (QbD), CPOB, dan ISO 9001:2015. Dilengkapi katalog 60 produk unggulan, video profil pabrik & iklan, denah fasilitas CPOB, dan kegiatan CSR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
